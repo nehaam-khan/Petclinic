@@ -1,4 +1,4 @@
-Updated for CI/CD pipeline test
+Updated for CI/CD pipeline testing
 
 # Spring PetClinic Sample Application  
 # Modified By DevOps Shack  https://www.youtube.com/@devopsshack
